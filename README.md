@@ -4,7 +4,7 @@
 This project is part of my **AI Data Analytics Internship with InAmigos Foundation**.  
 It explores a dataset of 11 leading Indian NGOs, analyzing their funding, beneficiaries, volunteers, and areas of work using **AI-powered insights from Julius AI**.
 
-##  Dataset
+##  Dataset (Task -1)
 The dataset includes details such as:
 - NGO Name & Founder
 - Headquarters & Year Founded
